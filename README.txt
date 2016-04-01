@@ -1,5 +1,4 @@
 Daniel Farley, dfarley@ucsc.edu
----- Lab 10: RPG ----
 
 Heap size used: 2048 bytes
 
